@@ -1,10 +1,10 @@
-# Codecademy
+# rsschool-2019Q1-codeacademy
 
 Iuliia Stetckaia
 
 [HTML CSS Basics](https://www.codecademy.com/users/juliastetskaya/achievements)
 
-# Html Academy
+# rsschool-2019Q1-htmlacademy
 
 Iuliia Stetckaia
 
